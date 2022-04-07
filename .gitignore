@@ -18,3 +18,4 @@
 *.png
 *.tif
 Plots/*.*
+*.Rproj
